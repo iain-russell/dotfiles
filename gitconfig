@@ -49,3 +49,5 @@
 [user]
 	email = iainrussell89@gmail.com
 	name = iain russell
+[credential]
+	helper = cache --timeout=3600
